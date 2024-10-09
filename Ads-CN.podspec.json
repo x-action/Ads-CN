@@ -12,7 +12,7 @@
   },
   "homepage": "https://github.com/bytedance/Bytedance-UnionAD",
   "source": {
-    "http": "https://sf3-fe-tos.pglstatp-toutiao.com/obj/csj-sdk-static/Public/SDK/6.4.1.0/SDK.zip"
+    "http": "https://media.githubusercontent.com/media/x-action/Ads-CN/8a77439b807779b1ae15e500e2c3bf6a9e663276/SDK.zip"
   },
   "platforms": {
     "ios": "10.0"
